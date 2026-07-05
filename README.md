@@ -1,5 +1,7 @@
 # 🍕 Pizza Sales Data Analysis (SQL + Excel)
 
+![Dashboard](Images/Pizza_Sales_Dashboard.jpg)
+
 ## 📌 Project Overview
 
 This project is an end-to-end **data analytics solution** built using **PostgreSQL and Microsoft Excel** to analyze pizza sales data.  
